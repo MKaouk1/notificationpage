@@ -1,0 +1,37 @@
+<div class="secondParent-Unread">
+<div class="images"><img src="image2.jpg" alt=""></div>
+<div class="messages"><p class="name">Mark Webber</p><p class="reaction">reacted to your recent post</p>
+<p class="post">My first tournament Today!</p></div>
+</div>
+<div class="secondParent-Unread">
+    <div class="images"><img src="image1.jpg" alt=""></div>
+    <div class="messages"><p class="name"></p><p class="reaction">followed you</p></div>
+</div>
+<div class="secondParent-Unread">
+<div class="images"><img src="image4.jpg" alt=""></div>
+<div class="messages"><p class="name">Jacob Thompson</p><p class="reaction">has joined your group</p>
+<p class="Club">Chess Club</p></div>
+</div>
+
+<div><div class="secondParent-read">
+<div class="images"><img src="image6.jpg" alt=""></div>
+<div class="messages"><p class="name">Rizky hasanuddin</p><p class="reaction">sent you a private message:</p></div>
+<p class="private-message">Hello, thanks for setting up the Chess club.I've been a member for a few weeks now
+    and I'm already having lots of fun and improving my game.</p>
+</div></div>
+<div class="secondParent-read">
+    <div class="images"><img src="image3.jpg" alt=""></div>
+    <div class="messages"><p class="name">Kimberly Smith</p><p class="reaction">commented on your picture</p><img src="360.jpg" alt=""></div>
+    </div>
+   
+    <div class="secondParent-read">
+        <div class="images"><img src="image6.jpg" alt=""></div>
+        <div class="messages"><p class="name">Nathan Peterson</p><p class="reaction">reacted to your recent post</p>
+        <p class="post">5 end-game strategies to increase your winrate</p> </div>
+        </div>
+        <div class="secondParent-read">
+            <div class="images"><img src="image5.jpg" alt=""></div>
+            <div class="messages"><p class="name">Anna Kim</p><p class="reaction">left the group </p>
+            <p class="post">Chess Club</p></div>
+          
+            </div>
